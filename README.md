@@ -148,4 +148,4 @@ If you want reverse engineering this project app:
 3. Import that folder to android studio
 4. Sync graddle (if necessary), and you success to import this app and ready to reverse engineering to your needs!
 
-<i>if need help, feel free to contact us! MatthewBrandon21 / rellpa.</i>
+<i>if need help, feel free to contact us! MatthewBrandon21 / rellpa / Ngibulz.</i>
